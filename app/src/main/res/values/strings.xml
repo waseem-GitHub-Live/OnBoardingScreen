@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OnBoardingScreen</string>
+    <string name="title_onboarding_1"><br>Scan all your documents </br>
+quickly and easily</string>
+
+
+    <string name="title_onboarding_2"><br>You can also edit and  </br>
+customize scan results</string>
+
+
+    <string name="title_onboarding_3"><br>Organize your documents </br>
+  with PDF Scanner!</string>
+
+</resources>
